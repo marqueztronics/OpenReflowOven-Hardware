@@ -108,7 +108,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XSMQCUCV
 
 [Document5]
-DocumentPath=AC Zero-Crossing Detection.SchDoc
+DocumentPath=AC Conversion and Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
