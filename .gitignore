@@ -2,3 +2,6 @@
 History
 __Previews
 Logs
+
+# Output Status Files
+*.OutputStatus
