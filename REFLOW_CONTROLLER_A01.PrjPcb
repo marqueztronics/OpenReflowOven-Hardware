@@ -192,6 +192,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Outputs\Design Rule Check - REFLOW_CONTROLLER_A01.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=dibujo.LOG
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=OpenReflowOven_Logo (1).LOG
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=OpenReflowOven_Logo.LOG
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Address1
 Value=Leonardo Márquez
