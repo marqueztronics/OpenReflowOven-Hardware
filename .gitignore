@@ -6,6 +6,9 @@ Logs
 # Output Status Files
 *.OutputStatus
 
+#Report Files
+*Report.Txt
+
 # LOG Files
 *.LOG
 
