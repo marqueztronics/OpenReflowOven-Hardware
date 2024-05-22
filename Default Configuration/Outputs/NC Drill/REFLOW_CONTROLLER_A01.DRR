@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: REFLOW_CONTROLLER_A01.CSPcbDoc   5/17/2024  6:40:30 PM
+NCDrill File Report For: REFLOW_CONTROLLER_A01.CSPcbDoc   5/21/2024  10:53:55 AM
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,10 +7,10 @@ ASCII RoundHoles File : REFLOW_CONTROLLER_A01.TXT
 
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        0.3mm (11.811mil)        Round          107              742.33 mm (29.23 Inch)
+T1        0.3mm (11.811mil)        Round          112              750.31 mm (29.54 Inch)
 T2        0.85mm (33.465mil)       Round          2                5.00 mm (0.20 Inch)
 T3        0.9mm (35.433mil)        Round          4                61.56 mm (2.42 Inch)
-T4        1mm (39.37mil)           Round          26               374.93 mm (14.76 Inch)
+T4        1mm (39.37mil)           Round          26               370.18 mm (14.57 Inch)
 T5        1.02mm (40.157mil)       Round          18               122.88 mm (4.84 Inch)
 T6        1.2mm (47.244mil)        Round          4                61.23 mm (2.41 Inch)
 T7        1.3mm (51.181mil)        Round          4                20.50 mm (0.81 Inch)
@@ -20,6 +20,6 @@ T10       1.7mm (66.929mil)        Round          3                14.00 mm (0.5
 T11       0.9906mm (39mil)         Round          3         NPTH   7.21 mm (0.28 Inch)
 T12       3.15mm (124.016mil)      Round          8         NPTH   499.93 mm (19.68 Inch)
 ---------------------------------------------------------------------------
-Totals                                            186              2048.70 mm (80.66 Inch)
+Totals                                            191              2051.93 mm (80.78 Inch)
 
 Total Processing Time (hh:mm:ss) : 00:00:00

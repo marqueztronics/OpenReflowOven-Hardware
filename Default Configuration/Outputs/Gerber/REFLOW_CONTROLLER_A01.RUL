@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\leona\Documents\Marqueztronics\Projects\Reflow Oven\PCB\REFLOW_CONTROLLER\A01\REFLOW_CONTROLLER_A01.CSPcbDoc
+DRC Rules Export File for PCB: C:\Users\leona\Documents\Marqueztronics\Projects\Reflow Oven\PCB\OpenReflowController\v0.1\Design Files\REFLOW_CONTROLLER_A01.CSPcbDoc
 RuleKind=Clearance|RuleName=ClearanceKeepout|Scope=Board|Minimum=15.75
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
