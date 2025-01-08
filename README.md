@@ -6,6 +6,6 @@ A reflow oven controller to be used with regular electric toaster ovens.
 
 PCB designed in Altium CircuitStudio.
 
-Current status: Finished v0.1 PCB layout. Nothing tested so far.
+Current status: Finished v1.0 PCB layout. Tested with some basic reflows.
 
 Note: If you are looking for schematics, Gerber, BOM, etc. they are under the "Default Configuration" folder. Circuit Studio has a weird directory structure. 
