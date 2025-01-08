@@ -29,7 +29,7 @@ PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 ForceUpdateCount=0
-OutputPath=
+OutputPath=Outputs
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -197,66 +197,70 @@ DocumentPath=Default Configuration\Outputs\BOM\BOM_PartType-REFLOW_CONTROLLER_V1
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Default Configuration\Outputs\Pick Place\Pick Place for REFLOW_CONTROLLER_V1_0.csv
+DocumentPath=Outputs\Design Rule Check - REFLOW_CONTROLLER_V1_0.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Default Configuration\Outputs\NC Drill\REFLOW_CONTROLLER_V1_0.DRR
+DocumentPath=Default Configuration\Outputs\Pick Place\Pick Place for REFLOW_CONTROLLER_V1_0.csv
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.EXTREP
+DocumentPath=Default Configuration\Outputs\NC Drill\REFLOW_CONTROLLER_V1_0.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.GBL
+DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.GBO
+DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.GBS
+DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.GTL
+DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.GTO
+DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.GTP
+DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.GTS
+DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Default Configuration\Outputs\NC Drill\REFLOW_CONTROLLER_V1_0.LDP
+DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.Outline
+DocumentPath=Default Configuration\Outputs\NC Drill\REFLOW_CONTROLLER_V1_0.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.REP
+DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.Outline
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.RUL
+DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.REP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Default Configuration\Outputs\ExportSTEP\REFLOW_CONTROLLER_V1_0.step
+DocumentPath=Default Configuration\Outputs\Gerber\REFLOW_CONTROLLER_V1_0.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
+DocumentPath=Default Configuration\Outputs\ExportSTEP\REFLOW_CONTROLLER_V1_0.step
+DItemRevisionGUID=
+
+[GeneratedDocument18]
 DocumentPath=Default Configuration\Outputs\NC Drill\REFLOW_CONTROLLER_V1_0.TXT
 DItemRevisionGUID=
 
@@ -279,7 +283,7 @@ DocumentReferenceClass2=DocumentReference
 OutputJobFileName2=REFLOW_CONTROLLER_V1_0.OutJob
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Outputs
 
 [OutputGroup1]
 Name=Netlist Outputs
