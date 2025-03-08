@@ -29,7 +29,7 @@ PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 ForceUpdateCount=0
-OutputPath=Outputs
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -260,10 +260,6 @@ DItemRevisionGUID=
 DocumentPath=Default Configuration\Outputs\ExportSTEP\REFLOW_CONTROLLER_V1_0.step
 DItemRevisionGUID=
 
-[GeneratedDocument18]
-DocumentPath=Default Configuration\Outputs\NC Drill\REFLOW_CONTROLLER_V1_0.TXT
-DItemRevisionGUID=
-
 [Parameter1]
 Name=Address1
 Value=Leonardo Márquez
@@ -283,7 +279,7 @@ DocumentReferenceClass2=DocumentReference
 OutputJobFileName2=REFLOW_CONTROLLER_V1_0.OutJob
 
 [Generic_EDE]
-OutputDir=Outputs
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
